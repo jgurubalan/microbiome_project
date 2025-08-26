@@ -1,0 +1,1313 @@
+{
+  "D006262": {
+    "name": "Health",
+    "tree_numbers": [
+      "N01.400"
+    ],
+    "parents": [
+      "Population Characteristics"
+    ],
+    "top_categories": [
+      "Health"
+    ]
+  },
+  "D015209": {
+    "name": "Cholangitis, Sclerosing",
+    "tree_numbers": [
+      "C06.130.120.200.110"
+    ],
+    "parents": [
+      "Cholangitis"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D003093": {
+    "name": "Colitis, Ulcerative",
+    "tree_numbers": [
+      "C06.405.205.265.231",
+      "C06.405.205.731.249",
+      "C06.405.469.158.188.231",
+      "C06.405.469.432.249"
+    ],
+    "parents": [
+      "Colitis",
+      "Inflammatory Bowel Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D043183": {
+    "name": "Irritable Bowel Syndrome",
+    "tree_numbers": [
+      "C06.405.469.158.272.608"
+    ],
+    "parents": [
+      "Colonic Diseases, Functional"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D001714": {
+    "name": "Bipolar Disorder",
+    "tree_numbers": [
+      "F03.600.150.500"
+    ],
+    "parents": [
+      "Bipolar and Related Disorders"
+    ],
+    "top_categories": [
+      "Mental Disorders"
+    ]
+  },
+  "D003863": {
+    "name": "Depression",
+    "tree_numbers": [
+      "F01.145.126.350",
+      "F01.470.282"
+    ],
+    "parents": [
+      "Behavioral Symptoms",
+      "Emotions"
+    ],
+    "top_categories": [
+      "Behavior and Behavior Mechanisms"
+    ]
+  },
+  "D007410": {
+    "name": "Intestinal Diseases",
+    "tree_numbers": [
+      "C06.405.469"
+    ],
+    "parents": [
+      "Gastrointestinal Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D008171": {
+    "name": "Lung Diseases",
+    "tree_numbers": [
+      "C08.381"
+    ],
+    "parents": [
+      "Respiratory Tract Diseases"
+    ],
+    "top_categories": [
+      "Respiratory Tract Diseases"
+    ]
+  },
+  "D012559": {
+    "name": "Schizophrenia",
+    "tree_numbers": [
+      "F03.700.750"
+    ],
+    "parents": [
+      "Schizophrenia Spectrum and Other Psychotic Disorders"
+    ],
+    "top_categories": [
+      "Mental Disorders"
+    ]
+  },
+  "D013959": {
+    "name": "Thyroid Diseases",
+    "tree_numbers": [
+      "C19.874"
+    ],
+    "parents": [
+      "Endocrine System Diseases"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases"
+    ]
+  },
+  "D001327": {
+    "name": "Autoimmune Diseases",
+    "tree_numbers": [
+      "C20.111"
+    ],
+    "parents": [
+      "Immune System Diseases"
+    ],
+    "top_categories": [
+      "Immune System Diseases"
+    ]
+  },
+  "D003967": {
+    "name": "Diarrhea",
+    "tree_numbers": [
+      "C23.888.821.214"
+    ],
+    "parents": [
+      "Signs and Symptoms, Digestive"
+    ],
+    "top_categories": [
+      "Signs and Symptoms, Digestive"
+    ]
+  },
+  "D003920": {
+    "name": "Diabetes Mellitus",
+    "tree_numbers": [
+      "C18.452.394.750",
+      "C19.246"
+    ],
+    "parents": [
+      "Endocrine System Diseases",
+      "Glucose Metabolism Disorders"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases",
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D003015": {
+    "name": "Clostridium Infections",
+    "tree_numbers": [
+      "C01.150.252.410.222"
+    ],
+    "parents": [
+      "Gram-Positive Bacterial Infections"
+    ],
+    "top_categories": [
+      "Bacterial Infections"
+    ]
+  },
+  "D015212": {
+    "name": "Inflammatory Bowel Diseases",
+    "tree_numbers": [
+      "C06.405.205.731",
+      "C06.405.469.432"
+    ],
+    "parents": [
+      "Gastroenteritis",
+      "Intestinal Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D003248": {
+    "name": "Constipation",
+    "tree_numbers": [
+      "C23.888.821.150"
+    ],
+    "parents": [
+      "Signs and Symptoms, Digestive"
+    ],
+    "top_categories": [
+      "Signs and Symptoms, Digestive"
+    ]
+  },
+  "D008881": {
+    "name": "Migraine Disorders",
+    "tree_numbers": [
+      "C10.228.140.546.399.750"
+    ],
+    "parents": [
+      "Headache Disorders, Primary"
+    ],
+    "top_categories": [
+      "Nervous System Diseases"
+    ]
+  },
+  "D004827": {
+    "name": "Epilepsy",
+    "tree_numbers": [
+      "C10.228.140.490"
+    ],
+    "parents": [
+      "Brain Diseases"
+    ],
+    "top_categories": [
+      "Nervous System Diseases"
+    ]
+  },
+  "D002318": {
+    "name": "Cardiovascular Diseases",
+    "tree_numbers": [
+      "C14"
+    ],
+    "parents": [],
+    "top_categories": [
+      "Cardiovascular Diseases"
+    ]
+  },
+  "D002446": {
+    "name": "Celiac Disease",
+    "tree_numbers": [
+      "C06.405.469.637.250",
+      "C18.452.603.250"
+    ],
+    "parents": [
+      "Malabsorption Syndromes"
+    ],
+    "top_categories": [
+      "Digestive System Diseases",
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D007674": {
+    "name": "Kidney Diseases",
+    "tree_numbers": [
+      "C12.050.351.968.419",
+      "C12.200.777.419",
+      "C12.950.419"
+    ],
+    "parents": [
+      "Urologic Diseases"
+    ],
+    "top_categories": [
+      "Urogenital Diseases"
+    ]
+  },
+  "D001289": {
+    "name": "Attention Deficit Disorder with Hyperactivity",
+    "tree_numbers": [
+      "F03.625.094.150"
+    ],
+    "parents": [
+      "Attention Deficit and Disruptive Behavior Disorders"
+    ],
+    "top_categories": [
+      "Mental Disorders"
+    ]
+  },
+  "D008107": {
+    "name": "Liver Diseases",
+    "tree_numbers": [
+      "C06.552"
+    ],
+    "parents": [
+      "Digestive System Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D000067877": {
+    "name": "Autism Spectrum Disorder",
+    "tree_numbers": [
+      "F03.625.164.113"
+    ],
+    "parents": [
+      "Child Development Disorders, Pervasive"
+    ],
+    "top_categories": [
+      "Mental Disorders"
+    ]
+  },
+  "D010661": {
+    "name": "Phenylketonurias",
+    "tree_numbers": [
+      "C10.228.140.163.100.687",
+      "C16.320.565.100.766",
+      "C16.320.565.189.687",
+      "C18.452.132.100.687",
+      "C18.452.648.100.766",
+      "C18.452.648.189.687"
+    ],
+    "parents": [
+      "Amino Acid Metabolism, Inborn Errors",
+      "Brain Diseases, Metabolic, Inborn"
+    ],
+    "top_categories": [
+      "Congenital, Hereditary, and Neonatal Diseases and Abnormalities",
+      "Nervous System Diseases",
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D000544": {
+    "name": "Alzheimer Disease",
+    "tree_numbers": [
+      "C10.228.140.380.100",
+      "C10.574.945.249",
+      "F03.615.400.100"
+    ],
+    "parents": [
+      "Dementia",
+      "Tauopathies"
+    ],
+    "top_categories": [
+      "Mental Disorders",
+      "Nervous System Diseases"
+    ]
+  },
+  "D009765": {
+    "name": "Obesity",
+    "tree_numbers": [
+      "C18.654.726.750.500",
+      "C23.888.144.699.500"
+    ],
+    "parents": [
+      "Overweight"
+    ],
+    "top_categories": [
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D009767": {
+    "name": "Obesity, Morbid",
+    "tree_numbers": [
+      "C18.654.726.750.500.700",
+      "C23.888.144.699.500.500"
+    ],
+    "parents": [
+      "Obesity"
+    ],
+    "top_categories": [
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D006973": {
+    "name": "Hypertension",
+    "tree_numbers": [
+      "C14.907.489"
+    ],
+    "parents": [
+      "Vascular Diseases"
+    ],
+    "top_categories": [
+      "Cardiovascular Diseases"
+    ]
+  },
+  "D007234": {
+    "name": "Infant, Premature",
+    "tree_numbers": [
+      "M01.060.703.520.520"
+    ],
+    "parents": [
+    "Infant, Newborn, Diseases"
+    ],
+    "top_categories": [
+      "Infant, Newborn, Diseases"
+    ]
+  },
+  "D001321": {
+    "name": "Autistic Disorder",
+    "tree_numbers": [
+      "F03.625.164.113.500"
+    ],
+    "parents": [
+      "Autism Spectrum Disorder"
+    ],
+    "top_categories": [
+      "Mental Disorders"
+    ]
+  },
+  "D000755": {
+    "name": "Anemia, Sickle Cell",
+    "tree_numbers": [
+      "C15.378.050.141.150.150",
+      "C15.378.420.155",
+      "C16.320.070.150",
+      "C16.320.365.155"
+    ],
+    "parents": [
+      "Anemia, Hemolytic, Congenital",
+      "Hemoglobinopathies"
+    ],
+    "top_categories": [
+      "Congenital, Hereditary, and Neonatal Diseases and Abnormalities",
+      "Hemic and Lymphatic Diseases"
+    ]
+  },
+  "D003424": {
+    "name": "Crohn Disease",
+    "tree_numbers": [
+      "C06.405.205.731.500",
+      "C06.405.469.432.500"
+    ],
+    "parents": [
+      "Inflammatory Bowel Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D054323": {
+    "name": "Shiga-Toxigenic Escherichia coli",
+    "tree_numbers": [
+      "B03.440.450.425.325.300.800",
+      "B03.660.250.150.180.100.800"
+    ],
+    "parents": [
+      "Escherichia coli"
+    ],
+    "top_categories": [
+      "Bacterial Infections"
+    ]
+  },
+  "D003924": {
+    "name": "Diabetes Mellitus, Type 2",
+    "tree_numbers": [
+      "C18.452.394.750.149",
+      "C19.246.300"
+    ],
+    "parents": [
+      "Diabetes Mellitus"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases",
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D015658": {
+    "name": "HIV Infections",
+    "tree_numbers": [
+      "C01.221.250.875",
+      "C01.221.812.640.400",
+      "C01.778.640.400",
+      "C01.925.782.815.616.400",
+      "C01.925.813.400",
+      "C12.100.937.640.400",
+      "C20.673.480"
+    ],
+    "parents": [
+      "Blood-Borne Infections",
+      "Immunologic Deficiency Syndromes",
+      "Lentivirus Infections",
+      "Sexually Transmitted Diseases, Viral"
+    ],
+    "top_categories": [
+      "Immune System Diseases",
+      "Viral Infections",
+      "Urogenital Diseases"
+    ]
+  },
+  "D050177": {
+    "name": "Overweight",
+    "tree_numbers": [
+      "C18.654.726.750",
+      "C23.888.144.699",
+      "E01.370.600.115.450.375.699",
+      "G07.100.100.160.120.699",
+      "G07.100.175.313.699"
+    ],
+    "parents": [
+      "Body Weight",
+      "Overnutrition"
+    ],
+    "top_categories": [
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D010300": {
+    "name": "Parkinson Disease",
+    "tree_numbers": [
+      "C10.228.140.079.862.500",
+      "C10.228.662.600.400",
+      "C10.574.928.750"
+    ],
+    "parents": [
+      "Parkinsonian Disorders",
+      "Synucleinopathies"
+    ],
+    "top_categories": [
+      "Nervous System Diseases"
+    ]
+  },
+  "D000236": {
+    "name": "Adenoma",
+    "tree_numbers": [
+      "C04.557.470.035"
+    ],
+    "parents": [
+      "Neoplasms, Glandular and Epithelial"
+    ],
+    "top_categories": [
+      "Neoplasms"
+    ]
+  },
+  "D015179": {
+    "name": "Colorectal Neoplasms",
+    "tree_numbers": [
+      "C04.588.274.476.411.307",
+      "C06.301.371.411.307",
+      "C06.405.249.411.307",
+      "C06.405.469.158.356",
+      "C06.405.469.491.307",
+      "C06.405.469.860.180"
+    ],
+    "parents": [
+      "Colonic Diseases",
+      "Intestinal Neoplasms",
+      "Rectal Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases",
+      "Neoplasms"
+    ]
+  },
+  "D005764": {
+    "name": "Gastroesophageal Reflux",
+    "tree_numbers": [
+      "C06.405.117.119.500.484"
+    ],
+    "parents": [
+      "Esophageal Motility Disorders"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D020345": {
+    "name": "Enterocolitis, Necrotizing",
+    "tree_numbers": [
+      "C06.405.205.596.700",
+      "C06.405.469.363.700"
+    ],
+    "parents": [
+      "Enterocolitis"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D015497": {
+    "name": "HIV-1",
+    "tree_numbers": [
+      "B04.820.650.589.650.350.400"
+    ],
+    "parents": [
+      "HIV"
+    ],
+    "top_categories": [
+      "Immune System Diseases",
+      "Viral Infections",
+      "Urogenital Diseases"
+    ]
+  },
+  "D006678": {
+    "name": "HIV",
+    "tree_numbers": [
+      "B04.820.650.589.650.350"
+    ],
+    "parents": [
+      "Lentiviruses, Primate"
+    ],
+    "top_categories": [
+      "Immune System Diseases",
+      "Viral Infections",
+      "Urogenital Diseases"
+    ]
+  },
+  "D065626": {
+    "name": "Non-alcoholic Fatty Liver Disease",
+    "tree_numbers": [
+      "C06.552.241.519"
+    ],
+    "parents": [
+      "Fatty Liver"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D003550": {
+    "name": "Cystic Fibrosis",
+    "tree_numbers": [
+      "C06.689.202",
+      "C08.381.187",
+      "C16.320.190",
+      "C16.614.213"
+    ],
+    "parents": [
+      "Genetic Diseases, Inborn",
+      "Infant, Newborn, Diseases",
+      "Lung Diseases",
+      "Pancreatic Diseases"
+    ],
+    "top_categories": [
+      "Congenital, Hereditary, and Neonatal Diseases and Abnormalities",
+      "Digestive System Diseases",
+      "Respiratory Tract Diseases"
+    ]
+  },
+  "D001171": {
+    "name": "Arthritis, Juvenile",
+    "tree_numbers": [
+      "C05.550.114.122",
+      "C05.799.056",
+      "C17.300.775.049",
+      "C20.111.198"
+    ],
+    "parents": [
+      "Arthritis",
+      "Autoimmune Diseases",
+      "Rheumatic Diseases"
+    ],
+    "top_categories": [
+      "Immune System Diseases",
+      "Musculoskeletal Diseases",
+      "Skin and Connective Tissue Diseases"
+    ]
+  },
+  "D003108": {
+    "name": "Colonic Diseases",
+    "tree_numbers": [
+      "C06.405.469.158"
+    ],
+    "parents": [
+      "Intestinal Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D004485": {
+    "name": "Eczema",
+    "tree_numbers": [
+      "C17.800.174.620",
+      "C17.800.815.620"
+    ],
+    "parents": [
+      "Dermatitis",
+      "Skin Diseases, Eczematous"
+    ],
+    "top_categories": [
+      "Skin and Connective Tissue Diseases"
+    ]
+  },
+  "D016360": {
+    "name": "Clostridioides difficile",
+    "tree_numbers": [
+      "B03.353.625.657.500"
+    ],
+    "parents": [
+      "Clostridioides"
+    ],
+    "top_categories": [
+      "Bacterial Infections"
+    ]
+  },
+  "D024821": {
+    "name": "Metabolic Syndrome",
+    "tree_numbers": [
+      "C18.452.394.968.500.570",
+      "C18.452.625"
+    ],
+    "parents": [
+      "Insulin Resistance",
+      "Metabolic Diseases"
+    ],
+    "top_categories": [
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D002277": {
+    "name": "Carcinoma",
+    "tree_numbers": [
+      "C04.557.470.200"
+    ],
+    "parents": [
+      "Neoplasms, Glandular and Epithelial"
+    ],
+    "top_categories": [
+      "Neoplasms"
+    ]
+  },
+  "D018256": {
+    "name": "Adenomatous Polyps",
+    "tree_numbers": [
+      "C04.557.470.035.215"
+    ],
+    "parents": [
+      "Adenoma"
+    ],
+    "top_categories": [
+      "Neoplasms"
+    ]
+  },
+  "D007230": {
+    "name": "Infant, Low Birth Weight",
+    "tree_numbers": [
+      "M01.060.703.520.460"
+    ],
+    "parents": [
+    "Infant, Newborn, Diseases"
+    ],
+    "top_categories": [
+      "Infant, Newborn, Diseases"
+    ]
+  },
+  "D008545": {
+    "name": "Melanoma",
+    "tree_numbers": [
+      "C04.557.465.625.650.510",
+      "C04.557.580.625.650.510",
+      "C04.557.665.510",
+      "C04.588.805.377",
+      "C17.800.882.445"
+    ],
+    "parents": [
+      "Neuroendocrine Tumors",
+      "Nevi and Melanomas",
+      "Skin Neoplasms"
+    ],
+    "top_categories": [
+      "Neoplasms",
+      "Skin and Connective Tissue Diseases"
+    ]
+  },
+  "D012778": {
+    "name": "Short Bowel Syndrome",
+    "tree_numbers": [
+      "C06.405.469.637.832",
+      "C23.550.767.882"
+    ],
+    "parents": [
+      "Malabsorption Syndromes",
+      "Postoperative Complications"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D003922": {
+    "name": "Diabetes Mellitus, Type 1",
+    "tree_numbers": [
+      "C18.452.394.750.124",
+      "C19.246.267",
+      "C20.111.327"
+    ],
+    "parents": [
+      "Autoimmune Diseases",
+      "Diabetes Mellitus"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases",
+      "Immune System Diseases",
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D016776": {
+    "name": "Blastocystis Infections",
+    "tree_numbers": [
+      "C01.610.432.250",
+      "C01.610.752.049.250",
+      "C06.405.469.452.250"
+    ],
+    "parents": [
+      "Amebiasis",
+      "Intestinal Diseases, Parasitic"
+    ],
+    "top_categories": [
+      "Digestive System Diseases",
+      "Infections"
+    ]
+  },
+  "D001172": {
+    "name": "Arthritis, Rheumatoid",
+    "tree_numbers": [
+      "C05.550.114.154",
+      "C05.799.114",
+      "C17.300.775.099",
+      "C20.111.199"
+    ],
+    "parents": [
+      "Arthritis",
+      "Autoimmune Diseases",
+      "Rheumatic Diseases"
+    ],
+    "top_categories": [
+      "Immune System Diseases",
+      "Musculoskeletal Diseases",
+      "Skin and Connective Tissue Diseases"
+    ]
+  },
+  "D015518": {
+    "name": "Rett Syndrome",
+    "tree_numbers": [
+      "C10.597.606.360.455.937",
+      "C16.320.322.500.937",
+      "C16.320.400.525.937"
+    ],
+    "parents": [
+      "X-Linked Intellectual Disability"
+    ],
+    "top_categories": [
+      "Congenital, Hereditary, and Neonatal Diseases and Abnormalities",
+      "Nervous System Diseases"
+    ]
+  },
+  "D014607": {
+    "name": "Uveomeningoencephalitic Syndrome",
+    "tree_numbers": [
+      "C10.114.843",
+      "C11.941.879.980",
+      "C20.111.258.925"
+    ],
+    "parents": [
+      "Autoimmune Diseases of the Nervous System",
+      "Uveitis"
+    ],
+    "top_categories": [
+      "Eye Diseases",
+      "Immune System Diseases",
+      "Nervous System Diseases"
+    ]
+  },
+  "D003876": {
+    "name": "Dermatitis, Atopic",
+    "tree_numbers": [
+      "C16.320.850.210",
+      "C17.800.174.193",
+      "C17.800.815.193",
+      "C17.800.827.210",
+      "C20.543.480.343"
+    ],
+    "parents": [
+      "Dermatitis",
+      "Hypersensitivity, Immediate",
+      "Skin Diseases, Eczematous",
+      "Skin Diseases, Genetic"
+    ],
+    "top_categories": [
+      "Congenital, Hereditary, and Neonatal Diseases and Abnormalities",
+      "Immune System Diseases",
+      "Skin and Connective Tissue Diseases"
+    ]
+  },
+  "D025241": {
+    "name": "Spondylarthritis",
+    "tree_numbers": [
+      "C05.116.900.853.625",
+      "C05.550.114.865"
+    ],
+    "parents": [
+      "Arthritis",
+      "Spondylitis"
+    ],
+    "top_categories": [
+      "Musculoskeletal Diseases"
+    ]
+  },
+  "D013274": {
+    "name": "Stomach Neoplasms",
+    "tree_numbers": [
+      "C04.588.274.476.767",
+      "C06.301.371.767",
+      "C06.405.249.767",
+      "C06.405.748.789"
+    ],
+    "parents": [
+      "Gastrointestinal Neoplasms",
+      "Stomach Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases",
+      "Neoplasms"
+    ]
+  },
+  "D013167": {
+    "name": "Spondylitis, Ankylosing",
+    "tree_numbers": [
+      "C05.116.900.853.625.800.744.500",
+      "C05.550.069.340.500",
+      "C05.550.114.865.800.744.500"
+    ],
+    "parents": [
+      "Axial Spondyloarthritis"
+    ],
+    "top_categories": [
+      "Musculoskeletal Diseases"
+    ]
+  },
+  "D011565": {
+    "name": "Psoriasis",
+    "tree_numbers": [
+      "C17.800.859.675"
+    ],
+    "parents": [
+      "Skin Diseases, Papulosquamous"
+    ],
+    "top_categories": [
+      "Skin and Connective Tissue Diseases"
+    ]
+  },
+  "D019337": {
+    "name": "Hematologic Neoplasms",
+    "tree_numbers": [
+      "C04.588.448",
+      "C15.378.400"
+    ],
+    "parents": [
+      "Hematologic Diseases",
+      "Neoplasms by Site"
+    ],
+    "top_categories": [
+      "Hemic and Lymphatic Diseases",
+      "Neoplasms"
+    ]
+  },
+  "D020187": {
+    "name": "REM Sleep Behavior Disorder",
+    "tree_numbers": [
+      "C10.886.659.633.700",
+      "F03.870.664.633.700"
+    ],
+    "parents": [
+      "REM Sleep Parasomnias"
+    ],
+    "top_categories": [
+      "Mental Disorders",
+      "Nervous System Diseases"
+    ]
+  },
+  "D006515": {
+    "name": "Hepatitis B virus",
+    "tree_numbers": [
+      "B04.280.375.650.425",
+      "B04.450.390.650.425"
+    ],
+    "parents": [
+      "Orthohepadnavirus"
+    ],
+    "top_categories": [
+      "Viral Infections"
+    ]
+  },
+  "D000855": {
+    "name": "Anorexia",
+    "tree_numbers": [
+      "C23.888.821.108"
+    ],
+    "parents": [
+      "Signs and Symptoms, Digestive"
+    ],
+    "top_categories": [
+      "Signs and Symptoms, Digestive"
+    ]
+  },
+  "D011236": {
+    "name": "Prediabetic State",
+    "tree_numbers": [
+      "C18.452.394.750.774",
+      "C19.246.774"
+    ],
+    "parents": [
+      "Diabetes Mellitus"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases",
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D007676": {
+    "name": "Kidney Failure, Chronic",
+    "tree_numbers": [
+      "C12.050.351.968.419.780.750.500",
+      "C12.200.777.419.780.750.500",
+      "C12.950.419.780.750.500",
+      "C23.550.291.500.906.500"
+    ],
+    "parents": [
+      "Renal Insufficiency, Chronic"
+    ],
+    "top_categories": [
+      "Urogenital Diseases"
+    ]
+  },
+  "D050197": {
+    "name": "Atherosclerosis",
+    "tree_numbers": [
+      "C14.907.137.126.307"
+    ],
+    "parents": [
+      "Arteriosclerosis"
+    ],
+    "top_categories": [
+      "Cardiovascular Diseases"
+    ]
+  },
+  "D016918": {
+    "name": "Arthritis, Reactive",
+    "tree_numbers": [
+      "C01.100.500",
+      "C05.116.900.853.625.800.637",
+      "C05.550.114.099.500",
+      "C05.550.114.865.800.637",
+      "C23.550.291.500.829.125"
+    ],
+    "parents": [
+      "Arthritis, Infectious",
+      "Post-Infectious Disorders",
+      "Spondylarthropathies"
+    ],
+    "top_categories": [
+      "Musculoskeletal Diseases"
+    ]
+  },
+  "D055113": {
+    "name": "Chronic Periodontitis",
+    "tree_numbers": [
+      "C07.465.714.533.324",
+      "C23.550.291.500.313"
+    ],
+    "parents": [
+      "Chronic Disease",
+      "Periodontitis"
+    ],
+    "top_categories": [
+      "Stomatognathic Diseases"
+    ]
+  },
+  "D005891": {
+    "name": "Gingivitis",
+    "tree_numbers": [
+      "C01.408",
+      "C07.465.714.258.480"
+    ],
+    "parents": [
+      "Gingival Diseases",
+      "Infections"
+    ],
+    "top_categories": [
+      "Stomatognathic Diseases"
+    ]
+  },
+  "D014376": {
+    "name": "Tuberculosis",
+    "tree_numbers": [
+      "C01.150.252.410.040.552.846"
+    ],
+    "parents": [
+      "Mycobacterium Infections"
+    ],
+    "top_categories": [
+      "Bacterial Infections"
+    ]
+  },
+  "D016640": {
+    "name": "Diabetes, Gestational",
+    "tree_numbers": [
+      "C12.050.703.170",
+      "C18.452.394.750.448",
+      "C19.246.200"
+    ],
+    "parents": [
+      "Diabetes Mellitus",
+      "Pregnancy"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases",
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D037841": {
+    "name": "Pregnant People",
+    "tree_numbers": [
+      "M01.975.807"
+    ],
+    "parents": [
+      "Women"
+    ],
+    "top_categories": [
+      "Pregnancy"
+    ]
+  },
+  "D016480": {
+    "name": "Helicobacter pylori",
+    "tree_numbers": [
+      "B03.440.500.550",
+      "B03.660.150.235.500.250.550"
+    ],
+    "parents": [
+      "Helicobacter"
+    ],
+    "top_categories": [
+      "Bacterial Infections"
+    ]
+  },
+  "D012400": {
+    "name": "Rotavirus Infections",
+    "tree_numbers": [
+      "C01.925.782.791.814"
+    ],
+    "parents": [
+      "Reoviridae Infections"
+    ],
+    "top_categories": [
+      "Viral Infections"
+    ]
+  },
+  "D001249": {
+    "name": "Asthma",
+    "tree_numbers": [
+      "C08.127.108",
+      "C08.381.495.108",
+      "C08.674.095",
+      "C20.543.480.680.095"
+    ],
+    "parents": [
+      "Bronchial Diseases",
+      "Lung Diseases, Obstructive",
+      "Respiratory Hypersensitivity"
+    ],
+    "top_categories": [
+      "Immune System Diseases",
+      "Respiratory Tract Diseases"
+    ]
+  },
+  "C537163": {
+    "name": "Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections",
+    "tree_numbers": [],
+    "parents": [],
+    "top_categories": []
+  },
+  "D001528": {
+    "name": "Behcet Syndrome",
+    "tree_numbers": [
+      "C07.465.075",
+      "C11.941.879.780.880.200",
+      "C14.907.940.100",
+      "C16.320.382.250",
+      "C17.800.827.368.250",
+      "C17.800.862.150"
+    ],
+    "parents": [
+      "Hereditary Autoinflammatory Diseases",
+      "Mouth Diseases",
+      "Skin Diseases, Vascular",
+      "Uveitis, Anterior",
+      "Vasculitis"
+    ],
+    "top_categories": [
+      "Cardiovascular Diseases",
+      "Congenital, Hereditary, and Neonatal Diseases and Abnormalities",
+      "Eye Diseases",
+      "Skin and Connective Tissue Diseases",
+      "Stomatognathic Diseases"
+    ]
+  },
+  "D008103": {
+    "name": "Liver Cirrhosis",
+    "tree_numbers": [
+      "C06.552.630",
+      "C23.550.355.412"
+    ],
+    "parents": [
+      "Fibrosis",
+      "Liver Diseases"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  },
+  "D054198": {
+    "name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+    "tree_numbers": [
+      "C04.557.337.428.600",
+      "C15.378.508.428.600",
+      "C15.604.515.560.600",
+      "C20.683.515.528.600"
+    ],
+    "parents": [
+      "Leukemia, Lymphoid"
+    ],
+    "top_categories": [
+      "Hemic and Lymphatic Diseases",
+      "Immune System Diseases",
+      "Neoplasms"
+    ]
+  },
+  "D006111": {
+    "name": "Graves Disease",
+    "tree_numbers": [
+      "C11.675.349.500",
+      "C19.874.283.605",
+      "C19.874.397.370",
+      "C20.111.555"
+    ],
+    "parents": [
+      "Autoimmune Diseases",
+      "Exophthalmos",
+      "Goiter",
+      "Hyperthyroidism"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases",
+      "Eye Diseases",
+      "Immune System Diseases"
+    ]
+  },
+  "D050031": {
+    "name": "Hashimoto Disease",
+    "tree_numbers": [
+      "C19.874.871.102.500",
+      "C20.111.809.500"
+    ],
+    "parents": [
+      "Thyroiditis, Autoimmune"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases",
+      "Immune System Diseases"
+    ]
+  },
+  "D001943": {
+    "name": "Breast Neoplasms",
+    "tree_numbers": [
+      "C04.588.180",
+      "C17.800.090.500"
+    ],
+    "parents": [
+      "Breast Diseases",
+      "Neoplasms by Site"
+    ],
+    "top_categories": [
+      "Neoplasms",
+      "Skin and Connective Tissue Diseases"
+    ]
+  },
+  "D013964": {
+    "name": "Thyroid Neoplasms",
+    "tree_numbers": [
+      "C04.588.322.894",
+      "C04.588.443.915",
+      "C19.344.894",
+      "C19.874.788"
+    ],
+    "parents": [
+      "Endocrine Gland Neoplasms",
+      "Head and Neck Neoplasms",
+      "Thyroid Diseases"
+    ],
+    "top_categories": [
+      "Endocrine System Diseases",
+      "Neoplasms"
+    ]
+  },
+  "D000067011": {
+    "name": "Severe Acute Malnutrition",
+    "tree_numbers": [
+      "C18.654.521.719"
+    ],
+    "parents": [
+      "Malnutrition"
+    ],
+    "top_categories": [
+      "Nutritional and Metabolic Diseases"
+    ]
+  },
+  "D042882": {
+    "name": "Gallstones",
+    "tree_numbers": [
+      "C06.130.409.633",
+      "C06.130.564.332.500",
+      "C23.300.175.525"
+    ],
+    "parents": [
+      "Calculi",
+      "Cholecystolithiasis",
+      "Cholelithiasis"
+    ],
+    "top_categories": [
+      "Digestive System Diseases"
+    ]
+  }
+}
